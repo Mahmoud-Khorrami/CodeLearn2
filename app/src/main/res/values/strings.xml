@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">CodeLearn2</string>
+    <string name="welcome">خوش آمدید</string>
+    <string name="approve">تایید</string>
+    <string name="phone_number">شماره همراه</string>
+    <string name="register">ثبت نام</string>
+    <string name="remain_time">زمان باقیمانده</string>
+    <string name="validation_code">کد فعالسازی</string>
+    <string name="re_send">ارسال مجدد</string>
+    <string name="enter">ورود</string>
+    <string name="register_profile">ثبت پروفایل</string>
+    <string name="name_and_family">نام و نام خانوادگی</string>
+    <string name="national_code">کد ملی</string>
+    <string name="enter_name">نام و نام خانوادگی را وارد کنید.</string>
+    <string name="enter_national_code">کد ملی را وارد کنید.</string>
+    <string name="enter_phone_number">شماره همراه را وارد کنید.</string>
+    <string name="description">لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است. چاپگرها و متون بلکه روزنامه و مجله در ستون و سطرآنچنان که لازم است و برای شرایط فعلی تکنولوژی مورد نیاز و کاربردهای متنوع با هدف بهبود ابزارهای کاربردی می باشد. کتابهای زیادی در شصت و سه درصد گذشته، حال و آینده شناخت فراوان جامعه و متخصصان را می طلبد تا با نرم افزارها شناخت بیشتری را برای طراحان رایانه ای علی الخصوص طراحان خلاقی و فرهنگ پیشرو در زبان فارسی ایجاد کرد. در این صورت می توان امید داشت که تمام و دشواری موجود در ارائه راهکارها و شرایط سخت تایپ به پایان رسد وزمان مورد نیاز شامل حروفچینی دستاوردهای اصلی و جوابگوی سوالات پیوسته اهل دنیای موجود طراحی اساسا مورد استفاده قرار گیرد.
+</string>
+</resources>
